@@ -1,0 +1,41 @@
+
+
+
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #E5F3F4;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #37BECC;
+  text-align: center;
+}
+
+p {
+
+  color: #777777
+}
+
+.questionAnswer {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 40px;
+  border-bottom: 2px solid #777777;
+}
+
+.question p {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.fa.fa-minus-square {
+  font-size: 24px;
+  color: #84CE15;
+  padding-right: 10px;
+}
+
+.fa.fa-plus-square {
+  font-size: 24px;
+  color: #1c2224;
+  padding-right: 10px;
+}

@@ -1,0 +1,31 @@
+.close {
+  color: black;
+  float: right;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+h1, h4{
+  text-align: center
+}
+
+.popUp {
+  color: yellow;
+  padding: 20px;
+  margin: 40px;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: #ff3399;
+}
+
+#submit {
+  background-color: #33cccc;
+  display: inline-block;
+}
+
+#email {
+  width: 600px;
+  margin: 20px;
+  display: inline-block;
+}

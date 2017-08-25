@@ -1,0 +1,44 @@
+@import 'stylesheets/colors';
+@import 'stylesheets/TwitterFeed';
+@import 'stylesheets/Tweet';
+
+.tweetBox {
+  border: 2px solid black;
+  margin: 40px;
+  padding: 20px;
+}
+
+.tweetBox p{
+  
+}
+
+#profPicture {
+  float: left;
+  padding-right: 10px;
+}
+
+.fa.fa-reply {
+
+}
+
+.fa.fa-heart.icon-cog {
+  color: red;
+  padding-left: 20px;
+}
+
+.fa.fa-retweet.icon-cog {
+  color: green;
+  padding-left: 20px;
+}
+
+.fa.fa-heart {
+  padding-left: 20px;
+}
+
+.fa.fa-retweet {
+  padding-left: 20px;
+}
+
+.fa.fa-ellipsis-h {
+  padding-left: 20px;
+}
